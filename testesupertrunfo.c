@@ -41,7 +41,7 @@ int main() {
     printf("Estado: %c\n", estadoA);
     printf("Cidade: %s\n", cidade01);
     printf("Codigo: %s\n", codigo01);
-    printf("População: %d\n", populacao01);
+    printf("População: %d\n", populacao01);    
     printf("Area Km²: %f\n", area01);
     printf("PIB: %f\n", pib01);
     printf("Pontos Turisticos: %d\n", ponto_turistico01);
