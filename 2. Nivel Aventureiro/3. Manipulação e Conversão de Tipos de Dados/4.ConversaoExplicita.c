@@ -5,7 +5,7 @@
         int b = 3;
         float quociente = (float) a / b; //"a" é explicitamente convertido para float
 // "(float)" é chamado de casting
-// cassting = forçar para armazenar a informação como float = ponto flutuante
+// casting = forçar para armazenar a informação como float = ponto flutuante
 // caso nao use o casting o resultado nao saira com as informações do float
         printf("Quociente: %.2f\n", quociente);
 
