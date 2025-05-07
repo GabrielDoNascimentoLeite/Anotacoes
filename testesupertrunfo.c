@@ -42,8 +42,8 @@ int main() {
     printf("Cidade: %s\n", cidade01);
     printf("Codigo: %s\n", codigo01);
     printf("População: %d\n", populacao01);    
-    printf("Area Km²: %f\n", area01);
-    printf("PIB: %f\n", pib01);
+    printf("Area Km²: %.2f\n", area01);
+    printf("PIB: %.2f\n", pib01);
     printf("Pontos Turisticos: %d\n", ponto_turistico01);
 
     printf("Carta02: \n");
@@ -72,8 +72,8 @@ int main() {
     printf("Cidade: %s\n", cidade02);
     printf("Codigo: %s\n", codigo02);
     printf("População: %d\n", populacao02);
-    printf("Area Km²: %f\n", area02);
-    printf("PIB: %f\n", pib02);
+    printf("Area Km²: %.2f\n", area02);
+    printf("PIB: %.2f\n", pib02);
     printf("Pontos Turisticos: %d\n", ponto_turistico02);
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
